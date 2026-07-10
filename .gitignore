@@ -1,0 +1,28 @@
+# ===== Large dataset files (too large for GitHub) =====
+# DNN-EdgeIIoT-dataset.csv (~1.16 GB)
+Edge/Selected dataset for ML and DL/DNN-EdgeIIoT-dataset.csv
+
+# ML-EdgeIIoT-dataset.csv (~78 MB - exceeds GitHub 50MB recommendation)
+Edge/Selected dataset for ML and DL/ML-EdgeIIoT-dataset.csv
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ===== Virtual environments =====
+venv/
+env/
+.env
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.vscode/settings.json
+*.swp
+*.swo
